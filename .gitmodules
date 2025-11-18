@@ -5,6 +5,9 @@
 [submodule "latexSymb"]
 	path = latexSymb
 	url = https://github.com/nicoesve/latexsymb
+[submodule "riemstats"]
+	path = riemstats
+	url = https://github.com/nicoesve/riemstats
 [submodule "riemtan"]
 	path = riemtan
 	url = https://github.com/nicoesve/riemtan
